@@ -143,7 +143,7 @@ Stats from SimilarWeb https://www.similarweb.com/website/quora.com/
 
 #### Notes
 
-We can reach sizeable amount of people this way, look at screenshot from my account back from 2-3 years ago: [images/quora-notifications.png](quora-notifications.png)
+We can reach sizeable amount of people this way, look at screenshot from my account back from 2-3 years ago: [./images/quora-notifications.png](quora-notifications.png)
 
 There is opportunity to participate in the conversation and answer crypto-related and Decred related questions to grow awareness of Decred and its strengths.
 
