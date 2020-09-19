@@ -53,7 +53,7 @@ What to do:
 #### How to create content
 
 - Put Decred into perspective - compare DAO size, compare governance model, compare how much of tx are being mixed, compare DEX. (Many) People don't derive own conclusions, they consume what you show them.
-- Potential monthly content: compare developer activity with other projects. There is account on Twitter that does all the stats, we just need to create article/podcast/tweetstorm/reddit post with these stats
+- Potential monthly content: compare developer activity with other projects. There is account on Twitter  that does all the stats, we just need to create article/podcast/tweetstorm/reddit post with these stats. https://twitter.com/coincodecap/status/1307258131550892032
 -
 
 ### New platforms
