@@ -143,6 +143,8 @@ Stats from SimilarWeb https://www.similarweb.com/website/quora.com/
 
 #### Notes
 
+We can reach sizeable amount of people this way, look at screenshot from my account back from 2-3 years ago: [images/quora-notifications.png](quora-notifications.png)
+
 There is opportunity to participate in the conversation and answer crypto-related and Decred related questions to grow awareness of Decred and its strengths.
 
 I was personally writing content on Quora in cryptocurrencies* topics and I was able to get to Top10 writers for several topics. Achieving such result helped get exposure to topics I wanted to write about and measurable traffic results were achieved (to goal was to generate traffic to a particular website).
