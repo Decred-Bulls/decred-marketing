@@ -117,6 +117,8 @@ So what's stopping you from doing metioned metioned activities?
 [Quora.com](http://quora.com) ranks as 92th most visited website, worldwide with around 485M monthly visits.
 (source: SimilarWeb.com, [https://www.similarweb.com/website/quora.com/](https://www.similarweb.com/website/quora.com/))
 
+**486,000,000 monthly visitors**, average spent time 3 minutes. Pages per visit: 2.06
+
 Stats from SimilarWeb https://www.similarweb.com/website/quora.com/
 
 **Traffic stats**
