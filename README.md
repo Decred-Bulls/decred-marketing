@@ -31,7 +31,7 @@ What to do:
 
 #### Medium
 
-- 45-50 claps on **every article** from important accounts [required]; comment [optional]
+- 45-50 claps on **every article** for important  accounts (Decred, Check, PermabullNino, Decred in Depth, Decred Drive, ..) [required]; comment [optional]
 - do understand that only content which is read and liked is being pushed to more eyeballs; simple as that
 - follow key accounts -> official Decred accounts, Checkmate, PermabullNino, ..
 - For content transcribed from podcasts or videos -> Always include first paragraph -> Decred's pitch! Think about new viewers who don't know Decred yet.
