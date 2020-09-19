@@ -4,6 +4,8 @@ Thoughts for Podcast with DCR in Depth
 
 ## Content creation and distribution strategy
 
+**Important**: If we don't want to pay ads to distrute content to eyeballs, we have to do the work by interacting with it!
+
 - video creation takes 80% energy, but only 20% of spent energy creates value
 - 20% of energy invested into distribution to different channels will create 80% value
 - Said differently: Content is the King, distribution is the Queen (from GaryV?) and people interacting are the White Knights ♞ fighting for the Kingdom (Decred)
