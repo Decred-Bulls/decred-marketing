@@ -108,6 +108,76 @@ So what's stopping you from doing metioned metioned activities?
 
 - **Solution**: You are not supporting them. You are supporting Decred!
 
+## Platforms
+
+### Why to invest time to Quora.com?
+
+[Quora.com](http://quora.com) has extremely good SEO and as such attracts a lot of people to their website. Cryptocurrencies* are a highly attractive and followed topics.
+
+[Quora.com](http://quora.com) ranks as 92th most visited website, worldwide with around 485M monthly visits.
+(source: SimilarWeb.com, [https://www.similarweb.com/website/quora.com/](https://www.similarweb.com/website/quora.com/))
+
+Stats from SimilarWeb https://www.similarweb.com/website/quora.com/
+
+**Traffic stats**
+
+- 38.97% United States
+- 17.05% India
+- 6.31%  United Kingdom
+- 4.74% Canada
+- 3.39% Australia
+
+**Quora: Most followed Topics**
+
+[https://www.quora.com/topic/Cryptocurrencies](https://www.quora.com/topic/Cryptocurrencies) - 430k+ followers
+
+[https://www.quora.com/topic/Virtual-Currencies](https://www.quora.com/topic/Virtual-Currencies) - 289k+ followers
+
+[https://www.quora.com/topic/Bitcoin](https://www.quora.com/topic/Bitcoin) - 430k+ followers
+
+[https://www.quora.com/topic/Trading-in-Cryptocurrency](https://www.quora.com/topic/Trading-in-Cryptocurrency) - 33k+ followers
+
+[https://www.quora.com/topic/Digital-Currency](https://www.quora.com/topic/Digital-Currency) - 80k+ followers
+
+#### Notes
+
+There is opportunity to participate in the conversation and answer crypto-related and Decred related questions to grow awareness of Decred and its strengths.
+
+I was personally writing content on Quora in cryptocurrencies* topics and I was able to get to Top10 writers for several topics. Achieving such result helped get exposure to topics I wanted to write about and measurable traffic results were achieved (to goal was to generate traffic to a particular website).
+
+My answers were also send in email digest to dozens of thousands of people, I think in summary my answers were sent to around 150,000 people via email (over a period of 3 months).
+
+I already described on Reddit, how such results can be achieved
+
+[https://www.reddit.com/r/decred/comments/it0idm/decred_on_quora/g5gince/](https://www.reddit.com/r/decred/comments/it0idm/decred_on_quora/g5gince/)
+
+Since this activity is reproducible, we can sponsor a good content writer who can invest his time to create valuable content on Quora and generate more awareness for Decred.
+
+There are measurable results:
+
+- User see view statistics of his answers
+- Website traffic increase can be measured
+- Discord and Telegram user growth is already being measured
+
+
+### Why to invest time into Publish0x.com?
+
+Publishing portal focused solely on crypto! Clean target audience.
+
+**900,000 monthly visitors**, average spent time 17 minutes. Pages per visit: 5.3
+
+Stats from SimilarWeb https://www.similarweb.com/website/publish0x.com/
+
+
+**Traffic Stats**
+
+- US 13.77%
+- Italy 8%
+- Germany 7%
+- France 7%
+- UK 5%
+
+
 ## Other opportunities
 
 - Launch withDecred on ProductHunt
