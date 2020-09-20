@@ -4,10 +4,10 @@ Thoughts for Podcast with DCR in Depth
 
 ## Content creation and distribution strategy
 
-**Important**: If we don't want to pay ads to distrute content to eyeballs, we have to do the work by interacting with it!
+**Important**: If we don't want to pay ads to distrute content to eyeballs, we have to do the work by interacting with it - giving likes, leaving comments and re-sharing the content!
 
-- video creation takes 80% energy, but only 20% of spent energy creates value
-- 20% of energy invested into distribution to different channels will create 80% value
+- video creation takes 80% energy, but only 20% of spent energy creates value (distribution of content to eyeballs)
+- 20% of energy invested into distribution to different channels will create 80% value (distribution of content to right channels with increase consumption of the content
 - Said differently: Content is the King, distribution is the Queen (from GaryV?) and people interacting are the White Knights ♞ fighting for the Kingdom (Decred)
 
 - Imagine having a company and not sharing or liking its products or services with friends! Or not asking your friends to leave Google Review if they liked the service/product!
@@ -147,7 +147,7 @@ We can reach sizeable amount of people this way, look at screenshot from my acco
 
 There is opportunity to participate in the conversation and answer crypto-related and Decred related questions to grow awareness of Decred and its strengths.
 
-I was personally writing content on Quora in cryptocurrencies* topics and I was able to get to Top10 writers for several topics. Achieving such result helped get exposure to topics I wanted to write about and measurable traffic results were achieved (to goal was to generate traffic to a particular website).
+I personally wrote content on Quora in cryptocurrencies* topics and I was able to get to Top10 writers for several topics - Bitcoin, Cryptocurrencies, Virtual Currencies and Blockchain (most followed crypto topics). Achieving such result helped get exposure to topics I wanted to write about and measurable traffic results were achieved (to goal was to generate traffic to a particular website).
 
 My answers were also send in email digest to dozens of thousands of people, I think in summary my answers were sent to around 150,000 people via email (over a period of 3 months).
 
@@ -196,5 +196,5 @@ Stats from SimilarWeb https://www.similarweb.com/website/publish0x.com/
 - Publish there also older content which needs more likes + comments
 - Then everybody should go through that content and like+comment+subscribe!
 - Start re-purposing Exitus'es videos on mentioned platforms: podcasts, Medium, publish0x, monthly Tweetstorm sumarries
-- Start re-purposing all Podcasts content - summarize and post Tweetstorms + Medium + publish0x
+- Start re-purposing all Podcasts content - summarize and post Tweetstorms + Medium + publish0x; publish on Youtube
 - Post every new content from every channel to new Discord+Matrix channel
