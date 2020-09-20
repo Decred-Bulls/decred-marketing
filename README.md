@@ -8,7 +8,7 @@ Thoughts for Podcast with DCR in Depth
 
 - video creation takes 80% energy, but only 20% of spent energy creates value (distribution of content to eyeballs)
 - 20% of energy invested into distribution to different channels will create 80% value (distribution of content to right channels with increase consumption of the content
-- Said differently: Content is the King, distribution is the Queen (from GaryV?) and people interacting are the White Knights ♞ fighting for the Kingdom (Decred)
+- Said differently: Content is the King, distribution is the Queen
 
 - Imagine having a company and not sharing or liking its products or services with friends! Or not asking your friends to leave Google Review if they liked the service/product!
 
