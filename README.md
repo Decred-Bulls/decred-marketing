@@ -12,6 +12,24 @@ Thoughts for Podcast with DCR in Depth
 
 - Imagine having a company and not sharing or liking its products or services with friends! Or not asking your friends to leave Google Review if they liked the service/product!
 
+## Current realtity of content engagement
+
+### Medium
+
+- Decred Journal — August 2020, @RichardRed - 476 claps, 0 comments
+- Decred, Mining Market Mechanics, @Checkmate - 375 claps, 0 comments
+- Decred Journal — July 2020, @RichardRed - 228 claps, 0 comments
+- Decred Journal — June 2020, @RichardRed - 219 claps, 1 comment
+
+## Twitter
+
+- August's issue of Decred Journal,  has 27 RT, 61 likes
+- New episode of Decred in Depth - Sep 15 has 18 RT, 41 likes
+- Release of Decred v1.5.2, Aug 28 has 50 RT, 110 likes
+- July's issue of Decred Journal, Aug 7 has 21 RT, 56 likes
+- New episode of Decred in Depth, Aug 2 has 22 RT, 46 likes
+- $DCR/$USDT paid available on Binance, Jul 30 has 15 RT, 62 likes
+
 ### Example: 1x Exitus's video
 
 Majority (80%) of the effort is to create the content. But if we leave it only on Youtube, and we don't like+comment every single video, we are leaving money on the table.
