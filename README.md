@@ -12,7 +12,7 @@ Thoughts for Podcast with DCR in Depth
 
 - Imagine having a company and not sharing or liking its products or services with friends! Or not asking your friends to leave Google Review if they liked the service/product!
 
-## Current realtity of content engagement
+## Current reality of content engagement ☹️
 
 ### Medium
 
