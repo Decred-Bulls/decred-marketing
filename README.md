@@ -208,6 +208,9 @@ Stats from SimilarWeb https://www.similarweb.com/website/publish0x.com/
 
 - There are people on Twitter with huge follower base, asking on weekly basis: "What did you ship last week?". I will add links to those profiles here when I find them.
 
+- Create popular "Ask me anything" interviews. They can be later transcribed and published in text format 
+“AMA Recap ZZZ.Finance with D’va” by zzz.finance https://link.medium.com/33D3q6uJaab
+
 # Steps we should take right away:
 
 - Create a new channel on Discord+Matrix where we post all the content being publised.
