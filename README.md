@@ -161,7 +161,7 @@ Stats from SimilarWeb https://www.similarweb.com/website/quora.com/
 
 #### Notes
 
-We can reach sizeable amount of people this way, look at screenshot from my account back from 2-3 years ago: [quora-notifications.png](./images/quora-notifications.png)
+We can reach sizeable amount of people this way, look at screenshot from my account back from 2-3 years ago: ![quora-notifications.png](./images/quora-notifications.png)
 
 There is opportunity to participate in the conversation and answer crypto-related and Decred related questions to grow awareness of Decred and its strengths.
 
@@ -184,7 +184,7 @@ There are measurable results:
 
 ### Why to invest time into Publish0x.com?
 
-Publishing portal focused solely on crypto! Clean target audience.
+Publishing portal focused solely on crypto. Clear target audience!
 
 **900,000 monthly visitors**, average spent time 17 minutes. Pages per visit: 5.3
 
